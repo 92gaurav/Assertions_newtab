@@ -40,6 +40,7 @@ public class Assertion {
 		String title = driver.getTitle();
 		Assert.assertEquals(actualtitle, title, "Your Title is not same as you expected");
 			
+		
 	}
 	
 	
